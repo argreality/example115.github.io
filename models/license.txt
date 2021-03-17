@@ -1,0 +1,11 @@
+Model Information:
+* title:	FC08O42
+* source:	https://sketchfab.com/3d-models/fc08o42-1490d6f4d5da40e19be4f0a357c67236
+* author:	Interiors3D (https://sketchfab.com/Interiors3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FC08O42" (https://sketchfab.com/3d-models/fc08o42-1490d6f4d5da40e19be4f0a357c67236) by Interiors3D (https://sketchfab.com/Interiors3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
